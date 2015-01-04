@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1419343815 source:d:\ryan\code\cb_projects\embedded_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"AD.h"
+	"tree.h"
+
+1419175112 d:\ryan\code\cb_projects\embedded_c\sort.h
+
+1419179658 d:\ryan\code\cb_projects\embedded_c\ad.h
+	<stdio.h>
+
+1419179640 source:d:\ryan\code\cb_projects\embedded_c\ad.c
+	"AD.h"
+
+1419639974 d:\ryan\code\cb_projects\embedded_c\tree.h
+
+1419647375 source:d:\ryan\code\cb_projects\embedded_c\tree.c
+	<stdio.h>
+	<string.h>
+	"tree.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1416628467 source:c:\users\sophia\documents\code\c\embedded_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
